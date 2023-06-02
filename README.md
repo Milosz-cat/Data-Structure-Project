@@ -15,10 +15,10 @@ In this file, we divide our dataset into the given number of smaller datasets in
 ## Report
 https://docs.google.com/document/d/1idYBmvavqTwhH0f8VU5Tc5dZ90aCG6fRxHzmVy9duGE/edit
 
-# Parquet and Feather (tabular data)
+## Parquet and Feather (tabular data)
 https://www.youtube.com/watch?v=u4rsA5ZiTls
 
-# Helpful links
+## Helpful links
 https://realpython.com/storing-images-in-python/
 https://medium.com/@mrgarg.rajat/training-on-large-datasets-that-dont-fit-in-memory-in-keras-60a974785d71
 https://openml.github.io/blog/openml/data/2020/03/23/Finding-a-standard-dataset-format-for-machine-learning.html
